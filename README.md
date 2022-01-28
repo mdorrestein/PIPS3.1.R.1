@@ -8,6 +8,4 @@ A cheating function
 
 This function allows you to cheat on the exercises of PIPS week 3. The function contains the answers for the first four exercises.
 
-@settings {
-  font-size: 100;
-}Usage
+# Usage

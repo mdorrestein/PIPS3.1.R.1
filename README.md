@@ -1,4 +1,3 @@
-...
 # PIPS3.1.R.1
 
 A shopping list function:
@@ -18,4 +17,4 @@ Also
 
 Try out my cheating function. Use the number of the exercise (1-4), for example:
 cheat(4)
-...
+

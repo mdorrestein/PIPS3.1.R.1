@@ -6,6 +6,11 @@ This function will allow you of essential things that should be on your shopping
 ######
 ######
 ######
+######
+######
+######
+######
+######
 A cheating function:
 
 To use the function, the following R packages need to be installed: ggplot2 and titanic.

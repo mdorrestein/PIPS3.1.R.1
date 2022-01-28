@@ -11,13 +11,13 @@ To use the function, the following R packages need to be installed: ggplot2 and 
 This function allows you to cheat on the exercises of PIPS week 3. It contains the answers for the first four exercises.
 
 # Usage
-Try out my_shopping_list
-Like: 
+# My shopping list
+Recall your shopping list with:
+
 my_shopping_list()
 
-Also
-
-Try out my cheating function. Use the number of the exercise (1-4), for example:
+# My cheating function
+Use the number of the exercise (1-4) you want to have the answer for, for example:
 
 cheat(4) will give the following output:
 
